@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="../assets/styles.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+	<style type="text/css">
+	</style>
+<!-- TemplateEndEditable -->
+</head>
+
+<body><div id="container">
+  <header> 
+    <ul>
+      
+    </ul>
+  </header>
+  <nav>
+	<ul>
+		<li><a href="../pages/about.html">About</a></li>
+		<li><a href="../pages/blog.html">Blog</a></li>
+		<li><a href="../pages/gallery.html">Gallery</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+	</ul>
+  </nav>
+  <!--Begin Floated Elements-->
+  <aside><h3>I'm a male, student,and teenager</h3>
+	<h3>Join me as I examine life through all of my various lenses</h3>
+  <h3>by Wes Taylor</h3></aside>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>Page Title</h1>
+  </main>
+  <!-- TemplateEndEditable -->
+<!--End Floated Elements-->
+  <footer></footer>
+</div>
+</body>
+</html>
